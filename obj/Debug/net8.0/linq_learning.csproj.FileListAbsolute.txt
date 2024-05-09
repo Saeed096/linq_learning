@@ -1,0 +1,14 @@
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.AssemblyInfoInputs.cache
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.AssemblyInfo.cs
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day11\learning\linq_learning\bin\Debug\net8.0\linq_learning.exe
+E:\iti\c#\Day11\learning\linq_learning\bin\Debug\net8.0\linq_learning.deps.json
+E:\iti\c#\Day11\learning\linq_learning\bin\Debug\net8.0\linq_learning.runtimeconfig.json
+E:\iti\c#\Day11\learning\linq_learning\bin\Debug\net8.0\linq_learning.dll
+E:\iti\c#\Day11\learning\linq_learning\bin\Debug\net8.0\linq_learning.pdb
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.dll
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\refint\linq_learning.dll
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.pdb
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\linq_learning.genruntimeconfig.cache
+E:\iti\c#\Day11\learning\linq_learning\obj\Debug\net8.0\ref\linq_learning.dll
